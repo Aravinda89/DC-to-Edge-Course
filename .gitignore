@@ -1,0 +1,13 @@
+__pycache__/
+.idea
+*.csv
+*.jpg
+*.h5
+*.hdf5
+*.tfrecords
+*.xlsx
+*.yml
+Dataset
+logs
+*.pb
+.ipynb_checkpoints
